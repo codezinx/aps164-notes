@@ -154,11 +154,11 @@ Rough depiction of Bohr model with electron excitement and relaxation:
 
 Shape of $s$ subshell, sphere:
 
-![Sphere|200](img/c9/c9-ls-sphere.png)
+<img src="img/c9/c9-ls-sphere.png" alt="Sphere" width="200">
 
 Shape of $p$ subshell, dumbbell:
 
-![Dumbbell|300](img/c9/c9-ls-dumbbell.png)
+<img src="img/c9/c9-ls-dumbbell.png" alt="Dumbbell" width="300">
 
 ### Magnetic QN, $m_l$
 
@@ -310,7 +310,7 @@ $$
 
 Cross-section of *NaCl* crystal, with charge attractions:
 
-![Slice|300](img/c9/c9-nacl-slice.jpg)
+<img src="img/c9/c9-nacl-slice.jpg" alt="Slice" width="300">
 
 since $\ce{Na+ -> <- Cl-}$
 
@@ -478,7 +478,7 @@ Electron energy v. interatomic spacing and band structure of potassium:
 
 Band structure (only) of potassium or copper:
 
-![Band st.|300](img/c9/c9-K-band-st.png)
+<img src="img/c9/c9-K-band-st.png" alt="Band st." width="300">
 
 E. config of potassium:
 
@@ -499,7 +499,7 @@ Electron energy v. interatomic spacing and band structure of potassium:
 
 Band structure of magnesium (in different way):
 
-![Band st.|400](img/c9/c9-Mg-band-st.png)
+<img src="img/c9/c9-Mg-band-st.png" alt="Band st." width="400">
 
 E. config of magnesium:
 
@@ -671,7 +671,7 @@ Remarks: $n$ &mdash; negative and $p$ &mdash; positive
 
 Intrinsic carrier concentration plotted against reciprocal temperature for Si, Ge, and GaAs (Jun Nogami):
 
-![Graph|400](img/c9/c9-intrinsic-conc-v-inv-T.png)
+<img src="img/c9/c9-intrinsic-conc-v-inv-T.png" alt="Graph" width="400">
 
 - conductivity v. 1/temp. follows Arrhenius dependance
 - slope is func. of band gap of semiconductor

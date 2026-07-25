@@ -273,7 +273,7 @@ Atoms form a tetrahedral interstitial site
 
 Diagram of atom touching in HCP
 
-![Diagram|300](img/c5/c5-cn-hcp.png)
+<img src="img/c5/c5-cn-hcp.png" alt="Diagram" width="300">
 
 - from diagram, atom touches all corner atoms (6)
 - and both interior atoms of 2 neighbouring cells (3 + 3)

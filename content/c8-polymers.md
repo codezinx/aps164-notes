@@ -95,7 +95,7 @@ When stretching polymer, strings or "noodles" become ***conditioned*** with load
 
 Mer unit for PP
 
-![Mer unit|300](img/c8/c8-pp.png)
+<img src="img/c8/c8-pp.png" alt="Mer unit" width="300">
 
 - ex: reusable Starbucks&reg; cups, juice jug
 - recycling code: 5
@@ -109,11 +109,11 @@ Mer unit for PP
 
 Mer unit for PVC
 
-![Mer unit|300](img/c8/c8-pvc.png)
+<img src="img/c8/c8-pvc.png" alt="Mer unit" width="300">
 
 Vinyl group:
 
-![Vinyl group|300](img/c8/c8-vinyl.png)
+<img src="img/c8/c8-vinyl.png" alt="Vinyl group" width="300">
 
 - chlorine atom in mer unit
 - *Properties:*
@@ -158,7 +158,7 @@ Periodic table and trends:
 
 Mer unit of PTFE
 
-![Mer unit|300](img/c8/c8-ptfe.png)
+<img src="img/c8/c8-ptfe.png" alt="Mer unit" width="300">
 
 - trade names: Teflon&reg;, Gore-Tex&reg;
 - *Uses:*
@@ -180,7 +180,7 @@ Mer unit of PTFE
 
 Mer unit of PMMA
 
-![Mer unit|300](img/c8/c8-pmma.png)
+<img src="img/c8/c8-pmma.png" alt="Mer unit" width="300">
 
 - trade name: Plexiglas&reg;
 - *acrylate* &rarr; acrylic

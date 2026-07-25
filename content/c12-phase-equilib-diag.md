@@ -34,7 +34,7 @@ Pressure v. temperature phase diagram of water:
 
 Phase diagram for only pure water (w/ temperature):
 
-![Diagram|300](img/c12/c12-phase-wat-T-axis.png)
+<img src="img/c12/c12-phase-wat-T-axis.png" alt="Diagram" width="300">
 
 - *y-axis:* temperature (&deg; C)
 - phase diagrams show phases in *equilibrium*
